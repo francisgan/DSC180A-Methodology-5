@@ -1,4 +1,6 @@
-## Lian Gan, lgan@ucsd.edu
+# DSC180A-Methodology-5
+
+### Lian Gan, lgan@ucsd.edu
 
 ### DSC180 B06, Rajesh Gupta
 
